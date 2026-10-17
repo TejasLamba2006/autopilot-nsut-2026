@@ -1,0 +1,11 @@
+{
+  "build": "744f8e44b2c00cf3f67de01dfc210bb702e4fd8ea1123a9ecc3f774549074142",
+  "wheel": "autopilot_sdk-0.3.0-py3-none-any.whl",
+  "programs": {
+    "autopilot-linux-x86_64": "1c7ba0541d77253880ba2bcd2e24acc04b11f2403374c37e388071713c905254",
+    "autopilot-macos-arm64": "c5214f54633fc964b729399a0dcb265d88a173f7cbc7b7fc74a499e136873cec",
+    "autopilot-macos-x86_64": "f29c8946566d9af52fb519b254338371c754c31b99ea16ce3a69775c07a27fc0",
+    "autopilot-windows-x86_64.exe": "8ba3b6912d923b3f9257a90799c86088115489984859fa068a7829e7097daebf"
+  },
+  "programsBuild": "744f8e44b2c00cf3f67de01dfc210bb702e4fd8ea1123a9ecc3f774549074142"
+}

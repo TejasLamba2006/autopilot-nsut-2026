@@ -1,0 +1,8 @@
+- [x] 1. Ground the workload and architecture before choosing the metric.
+- [x] 2. Build the measurement harness, prove its sensitivity, then freeze it.
+- [x] 3. Open the decision log via the show-me-your-work skill (decision.tsv).
+- [ ] 4. Ground each hypothesis in the architecture model from step 1.
+- [ ] 5. Loop, one hypothesis per iteration.
+- [ ] 6. Push past the first plateau.
+- [ ] 7. Stop when the predicate is met.
+- [ ] 8. Run Opening a PR (skip: no git repository in workspace; publish directly to live leaderboard).

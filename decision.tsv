@@ -1,0 +1,2 @@
+id	hypothesis	change	before	after	delta	tests	verdict	note
+0	baseline starter agent	none (starter agent.py)	0	161.36	+161.36	verify:pass	baseline	starter LLM+fallback on TC01 scored 88.97; most teams lose TC02/TC05/TC09

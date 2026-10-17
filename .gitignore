@@ -1,0 +1,6 @@
+*.data
+*.exe
+*.whl
+sdk_unpacked/
+autopilot-runs/
+__pycache__/
